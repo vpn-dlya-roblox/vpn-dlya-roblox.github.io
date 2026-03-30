@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vpn-dlya-roblox.github.io/sitemap.xml
